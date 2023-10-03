@@ -1,0 +1,7 @@
+{
+  "name": "OA_Client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
